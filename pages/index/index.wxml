@@ -1,0 +1,4 @@
+<!--pages/index/index.wxml-->
+<view>
+  <text style="color:red">首页</text>
+</view>
